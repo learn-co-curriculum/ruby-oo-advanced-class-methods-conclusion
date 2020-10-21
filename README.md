@@ -7,5 +7,5 @@ to create instances of its own class. We also used class variables to keep track
 of a class's data.
 
 These are all some powerful tools you can use for more complex Ruby operations.
-As we move forward, we'll see oppportunites to leverage their power in our
+As we move forward, we'll see opportunities to leverage their power in our
 larger applications.
