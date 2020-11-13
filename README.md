@@ -1,4 +1,4 @@
-# Ruby Advanced Class Methods Conclusion
+# Advanced Class Methods Conclusion
 
 In the past several lessons, we pushed our Ruby skills even farther to
 incorporate advanced class methods. We covered building custom class
